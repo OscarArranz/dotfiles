@@ -1,7 +1,0 @@
-2021/11/17-18:36:13.765 50f Reusing MANIFEST /home/oscar/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
-2021/11/17-18:36:13.765 50f Recovering log #3
-2021/11/17-18:36:13.765 50f Reusing old log /home/oscar/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/000003.log 
-2021/11/17-18:36:13.993 50f Level-0 table #5: started
-2021/11/17-18:36:13.995 50f Level-0 table #5: 7861 bytes OK
-2021/11/17-18:36:13.997 50f Delete type=0 #3
-2021/11/17-18:36:13.997 50f Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

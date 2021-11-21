@@ -1,6 +1,0 @@
-2021/11/21-11:08:57.776 d2ef2 Reusing MANIFEST /home/oscar/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2021/11/21-11:08:57.776 d2ef2 Recovering log #10
-2021/11/21-11:08:57.777 d2ef2 Reusing old log /home/oscar/.config/discord/Local Storage/leveldb/000010.log 
-2021/11/21-12:06:59.049 d2f33 Level-0 table #14: started
-2021/11/21-12:06:59.051 d2f33 Level-0 table #14: 12088 bytes OK
-2021/11/21-12:06:59.054 d2f33 Delete type=0 #10
