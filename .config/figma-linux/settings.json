@@ -1,0 +1,39 @@
+{
+  "clientId": "1b663b81-3da9-4c35-a15c-8065cc6d953d",
+  "userId": "735965189363850174",
+  "authedUserIDs": [
+    "735965189363850174"
+  ],
+  "app": {
+    "logLevel": 1,
+    "enableColorSpaceSrgb": false,
+    "visibleNewProjectBtn": true,
+    "useZenity": false,
+    "panelHeight": 40,
+    "saveLastOpenedTabs": true,
+    "exportDir": "/home/oscar/Pictures/Figma",
+    "fontDirs": [
+      "/usr/share/fonts",
+      "/usr/local/share/fonts",
+      "/run/host/fonts",
+      "/run/host/user-fonts",
+      "/home/oscar/.local/share/fonts"
+    ],
+    "lastOpenedTabs": [
+      {
+        "title": "Arch Desktop Rice",
+        "url": "https://www.figma.com/file/b9BWO8qxyTNfdKjtOZguNs/Arch-Desktop-Rice"
+      }
+    ],
+    "featureFlags": {
+      "paste_to_replace": true,
+      "voice_captions_enabled": true
+    },
+    "savedExtensions": []
+  },
+  "theme": {},
+  "ui": {
+    "scalePanel": 1,
+    "scaleFigmaUI": 1
+  }
+}

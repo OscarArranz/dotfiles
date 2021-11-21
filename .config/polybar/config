@@ -1,0 +1,314 @@
+[colors]
+black = #282C34
+purple = #C778DD
+green = #98C379
+blue = #62AEEF
+white = #EDEDED
+transparent = #00
+
+[fonts]
+cascadia-main = "CaskaydiaCove Nerd Font:size=11;2"
+separator = "CaskaydiaCove Nerd Font:size=45;11"
+
+[global/wm]
+margin-bottom = 0
+margin-top = 0
+
+[bar/left-left]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+width = 8.1%
+height = 38
+padding-left = 3
+offset-y = 18
+offset-x = 1.6%
+radius = 19
+
+background = ${colors.purple}
+foreground = ${colors.black}
+
+module-margin = 1
+font-0 = ${fonts.cascadia-main}
+
+modules-left = bspwm
+
+cursor-click = pointer
+
+[bar/left-separator]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+font-0 = ${fonts.separator}
+
+background = ${colors.transparent}
+foreground = ${colors.purple}
+
+width = 4%;
+height = 38
+offset-x = 9.8%
+offset-y = 18
+
+modules-left = separator
+
+[bar/left-space]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+background = ${colors.purple}
+foreground = ${colors.transparent}
+
+width = 1.5%
+height = 38
+offset-x = 8.6%
+offset-y = 18
+
+modules-left = space
+
+[bar/left-right]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+background = ${colors.black}
+foreground = ${colors.white}
+
+font-0 = ${fonts.cascadia-main}
+
+width = 13.3%
+height = 38
+padding-left = 7
+offset-y = 18
+offset-x = 9%
+radius = 19
+
+module-margin = 1
+modules-left = cpu ram fs
+
+[bar/spotify]
+enable-ipc = true
+wm-restack = bspwm
+
+monitor-strict = false
+override-redirect = true
+
+background = ${colors.green}
+foreground = ${colors.black}
+
+font-0 = ${fonts.cascadia-main}
+
+width = 18.1%
+height = 38
+padding-left = 3
+padding-right = 3
+offset-y = 18
+offset-x = 37.65%
+radius = 19
+
+module-margin = 1
+modules-left = spotify
+modules-right = spotify-prev spotify-play-pause spotify-next
+
+cursor-click = pointer
+
+[bar/volume]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+background = ${colors.black}
+foreground = ${colors.white}
+
+font-0 = ${fonts.cascadia-main}
+
+width = 5.6%
+height = 38
+padding-left = 3
+offset-y = 18
+offset-x = 57.7%
+radius = 19
+
+modules-left = volume
+
+[bar/right-left]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+background = ${colors.black}
+foreground = ${colors.white}
+
+font-0 = ${fonts.cascadia-main}
+
+width = 7.6%
+height = 38
+padding-left = 3
+offset-y = 18
+offset-x = 77%
+radius = 19
+
+modules-left = firefox code figma spoti-ico
+
+cursor-click = pointer
+
+[bar/right-right]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+background = ${colors.blue}
+foreground = ${colors.black}
+
+font-0 = ${fonts.cascadia-main}
+
+width = 15.4%
+height = 38
+padding-right = 3
+offset-y = 18
+offset-x = 83%
+radius = 19
+
+modules-right = date
+
+[bar/right-space]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+background = ${colors.black}
+foreground = ${colors.transparent}
+
+width = 1.5%
+height = 38
+offset-y = 18
+offset-x = 82.7%
+
+modules-left = space
+
+[bar/right-separator]
+monitor-strict = false
+override-redirect = true
+wm-restack = bspwm
+
+background = ${colors.transparent}
+foreground = ${colors.black}
+
+font-0 = ${fonts.separator}
+
+width = 4%
+height = 38
+offset-y = 18
+offset-x = 83.9%
+
+modules-left = separator
+
+[module/separator]
+type = custom/text
+content = 
+
+[module/space]
+type = custom/text
+content = "a"
+
+[module/bspwm]
+type = internal/bspwm
+pin-workspaces = true
+
+ws-icon-default = ♟
+ws-icon-0 = Browsing;
+ws-icon-1 = Development;
+ws-icon-2 = Design;
+ws-icon-3 = Music;
+
+label-empty = ""
+label-occupied = ""
+
+[module/cpu]
+type = internal/cpu
+interval = 3
+label = " %percentage%%"
+
+[module/ram]
+type = internal/memory
+interval = 3
+label = " %percentage_used%%"
+
+[module/fs]
+type = internal/fs
+interval = 30
+
+mount-0 = /
+label-mounted = " %percentage_used%%"
+
+[module/spotify]
+type = custom/script
+tail = true
+format-prefix = "  "
+exec = ~/.config/polybar/plugins/scroll_spotify_status.sh
+
+[module/spotify-prev]
+type = custom/script
+exec = echo "玲"
+format = <label>
+click-left = playerctl previous -p spotify
+
+[module/spotify-play-pause]
+type = custom/ipc
+hook-0 = echo ""
+hook-1 = echo "喇"
+initial = 1
+click-left = playerctl play-pause -p spotify
+
+[module/spotify-next]
+type = custom/script
+exec = echo "怜"
+click-left = playerctl next -p spotify
+
+[module/volume]
+type = internal/pulseaudio
+
+format-volume = <ramp-volume> <label-volume>
+
+use-ui-max = false
+
+interval = 5
+
+label-muted = 婢 0%
+
+ramp-volume-0 = 奄
+ramp-volume-1 = 奔
+ramp-volume-2 = 墳
+
+[module/firefox]
+type = custom/script
+exec = echo "  "
+click-left = firefox
+
+[module/code]
+type = custom/script
+exec = echo "  "
+format = <label>
+click-left = kitty
+
+[module/figma]
+type = custom/script
+exec = echo "  "
+click-left = figma-linux
+
+[module/spoti-ico]
+type = custom/script
+exec = echo "   "
+click-left = spotify
+
+[module/date]
+type = internal/date
+
+interval = 1.0
+
+date =  %d/%m/%Y
+time =  %H:%M
+
+label = %time% | %date%

@@ -1,0 +1,96 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="20uxgXt3yOF5MkwVtT1pOz37vr9">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="280" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SPLIT_EDITOR_MODE_/home/oscar/StudioProjects/CalendarioURJC/app/src/main/res/layout/activity_add_date_event.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/oscar/StudioProjects/CalendarioURJC/app/src/main/res/layout/activity_calendar.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/oscar/StudioProjects/CalendarioURJC/app/src/main/res/layout/activity_events.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/oscar/StudioProjects/CalendarioURJC/app/src/main/res/layout/activity_help.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/oscar/StudioProjects/CalendarioURJC/app/src/main/res/layout/fragment_dashboard.xml" value="SPLIT" />
+    <property name="SettingsSearchHistory" value="font" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="appcds.runOnSecondStart" value="AI-203.7717.56.2031.7784292-3d0714b0498bd259d9ce11aad1519f1b28ae36e260378835b4e4fb6817f13fce" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.gist.reindex.count" value="6" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.updates.previous.build.number" value="AI-203.7717.56.2031.7784292" />
+    <property name="inspector.open.All Attributes" value="true" />
+    <property name="installed.kotlin.plugin.version" value="203-1.5.20-release-289-AS7717.8" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
+    <property name="kotlin.lastUpdateCheck" value="1637490093893" />
+    <property name="kotlin.plugin.releaseDate" value="203-1.5.20-release-289-AS7717.8:2021-06-24" />
+    <property name="lastSeenTip" value="InjectSQLLanguage.html" />
+    <property name="lastTimeTipsWereShown" value="1637488397864" />
+    <property name="seenTips" value="Kotlin.html,InjectSQLLanguage.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

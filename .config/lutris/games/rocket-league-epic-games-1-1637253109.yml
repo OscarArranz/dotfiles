@@ -1,0 +1,15 @@
+game:
+  arch: win64
+  args: -opengl -SkipBuildPatchPrereq
+  exe: drive_c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/EpicGamesLauncher.exe
+  prefix: /home/oscar/Games/rocket-league
+system:
+  env:
+    DXVK_HUD: compiler
+    MESA_GL_VERSION_OVERRIDE: 4.4COMPAT
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/oscar/Games/rocket-league
+wine:
+  dxvk: true
+  esync: true
+  version: lutris-fshack-6.21-3-x86_64

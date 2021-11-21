@@ -1,0 +1,56 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="210GIpN3HAW2k1huaOUp05qPyAk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="213YD1UaTx2OybHR2gw1XiSGYqY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="213YHdPI0RJ8BfemEBrhUvPsWuV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="217feLqwuML0fwPVvaqbyvJeI8c">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RegistryRecentKeys" value="run.processes.with.pty" />
+    <property name="SettingsSearchHistory" value="run.processes." />
+    <property name="appcds.runOnSecondStart" value="CL-212.5457.51-c3b7b62b8249bb74b03459734e22832f7de8d86d484bc47ce04b44be87bf91fa" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/development/urjc/sso&#10;/usr/bin/gdb&#10;/usr/bin/gdbus&#10;/home/oscar/CLionProjects/untitled1&#10;/home/oscar/development/urjc/sso/SO_practica/main.c&#10;/usr/bin/cmake&#10;/home/oscar/development/urjc/sso/SO_practica" />
+    <property name="file.gist.reindex.count" value="47" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.updates.previous.build.number" value="CL-212.5457.51" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/development/urjc/sso" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-212.5457.51" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>
